@@ -1,0 +1,58 @@
+html, body {
+    font-family: 'Poppins';
+    font-size: 15px;
+    line-height: 1.5em;
+    box-sizing: border-box;
+    margin: 0;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    font-weight: 400;
+    background-color: white;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-family:'Pacifico', cursive;
+}
+
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #fff;
+    color: #000;
+}
+
+h2 {
+    font-size: 25px !important;
+}
+
+h3 {
+    font-family:'Pacifico', cursive;
+}
+
+h4 {
+    font-family:'Pacifico', cursive;
+    text-align: center;
+}
+
+.container image {
+    width: 50%;
+}
+
+.sticky-footer {
+    position: sticky;
+    top: 100%;
+}
+
+
+.lead {
+    font-family:'Pacifico', cursive;
+}
+
+.rights
+.about-selected {
+    font-family: 'Poppins';
+    font-size: 10px;
+}
+
